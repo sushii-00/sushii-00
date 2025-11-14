@@ -4,9 +4,9 @@
 ---
 
 ### 🚀 Driving Innovation in AI
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aaron-seq/aaron-seq/main/assets/ai-banner.gif" width="600"/>
-</p>
+
+I’m a data scientist and software developer experienced in building end-to-end ML systems across internships and my role at Zendot Technologies. I’ve developed document Q&A (RAG) systems, OCR and face-detection pipelines, and multi-agent model orchestration using LangChain/LangGraph. Skills include Python, pandas, NumPy, SQL, scikit-learn, XGBoost, PyTorch, embeddings and vector search, OpenCV, prompt engineering, experiment tracking and AWS. I prioritize reproducible pipelines, robust evaluation, and clear stakeholder communication. Seeking data science roles focused on applied ML, model productionization, and measurable business impact.
+
 
 ---
 
