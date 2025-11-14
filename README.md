@@ -28,15 +28,8 @@
 `PyTorch` `TensorFlow` `LangChain` `LangGraph` `OpenCV` `HuggingFace`
 
 **Tools:**  
-`Docker` `Git` `FastAPI` `MongoDB`
+`Docker` `Git` `FastAPI` 
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudha-nippani&show_icons=true&theme=radical" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudha-nippani&layout=compact&theme=radical" height="160"/>
-</p>
 
 ---
 
