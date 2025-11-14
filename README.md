@@ -30,10 +30,16 @@
 **Tools:**  
 `Docker` `Git` `FastAPI` 
 
+---
+
+### My Portfolio
+<p align="left">
+<a href="https://sushii-00.github.io/sudha-portfolio/">Sudha Nippani</a>
+</p>
 
 ---
 
 ### 🔗 Connect With Me
 <p align="left">
-<a href="https://linkedin.com/in/sudha-nippani"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sudhanippani/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white"/></a>
 </p>
