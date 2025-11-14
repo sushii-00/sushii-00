@@ -12,9 +12,9 @@ I’m a data scientist and software developer experienced in building end-to-end
 
 ### 🧠 About Me
 - 🌍 Location: India  
-- 🎓 Education: B.Tech in XYZ  
-- 💼 Current Role: Software Developer @ Zendot Technologies  
-- 💡 Interests: Multi-agent AI, RAG Systems, LLM Applications  
+- 🎓 Education: B.Tech in Computer Science @ IP Univeristy (8/10 CGPA)  
+- 💼 Latest Role: Software Developer @ Zendot Technologies  
+- 💡 Interests: Multi-agent AI, RAG Systems, LLM Applications, NLP Applications, Machine Learning, Data Science  
 - 🧪 I love building scalable AI products with real business impact  
 
 ---
